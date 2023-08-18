@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  background-color: rgb(69, 69, 69);
+}
+
+.title {
+  color: white;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.title-sub{
+  margin: auto;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.food{
+  margin: 20px auto;
+  text-align: center;
+  background-color: white;
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.navbar{
+  background-color: white;
+  color: black;
+  padding: 20px;
+}
+.navbar a {
+  text-decoration-line: none;
+  color: black;
+  margin-right: 20px;
+}
+
+.cart-item{
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid gray;
+  line-height: 0px;
+}
